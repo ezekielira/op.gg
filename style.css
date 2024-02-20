@@ -1,0 +1,35 @@
+.header1 {
+  background-color: #2F436E;
+  color: white;
+}
+.header1 .navbar-nav {
+  display: flex;
+  align-items: flex-start;
+}
+.header1 .navbar-nav .nav-item {
+  padding-left: 20px;
+}
+.header1 .navbar-nav .nav-item:first-child {
+  margin-right: auto; /* Push the first item (logo) to the left */
+}
+
+
+
+
+.header2 {
+  background-color: #5383E8;
+  color: white;
+}
+
+.btn-light {
+  color: white;
+  background-color: #5383E8;
+}
+
+.nav-item {
+  text-align: right;
+}
+
+body {
+
+}
